@@ -10,9 +10,11 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0",
     "react": "18.0.0",
     "react-native": "0.69.5",
     "react-native-camera": "^4.2.1",
+    "react-native-qrcode-scanner": "^1.5.5",
     "react-qr-scanner": "^1.0.0-alpha.11"
   },
   "devDependencies": {

@@ -1,11 +1,10 @@
 import React  from "react"
-import {Sayhi} from './src/components/Sayhi'
-import {Counter} from './src/components/Counter'
+import QrScanner from "./src/screens/QrScanner"
 
 export const App = () => {
   return (
     //<Sayhi></Sayhi>
-  <Counter></Counter>
+  <QrScanner></QrScanner>
   )
 }
 export default App 
